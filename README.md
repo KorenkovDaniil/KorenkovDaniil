@@ -6,5 +6,6 @@
 - 🚀 I’m looking for a job in a field of Data Science
 - 🤓 I’m currently learning at Yandex.Precticum (for 8 month now)
 
+
 ### Connect with me:
 [Telegramm](https://t.me/pryanichek_tula)
